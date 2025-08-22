@@ -6,6 +6,11 @@ public class Main {
         System.out.printf("Hola mundo");
         System.out.printf("Simon Gomez Sanabria");
         System.out.printf("Estudiatee");
+        System.out.printf("Hola mundo");
+        System.out.printf("Hola mundo");
+        System.out.printf("Hola mundo");
+        System.out.printf("Hola mundo");
+        System.out.printf("Hola mundo");
 
     }
 }
