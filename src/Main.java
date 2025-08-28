@@ -1,16 +1,18 @@
 
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hola mundo");
-        System.out.printf("Simon Gomez Sanabria");
-        System.out.printf("Estudiatee");
-        System.out.printf("Hola mundo");
-        System.out.printf("Hola mundo");
-        System.out.printf("Hola mundo");
-        System.out.printf("Hola mundo");
-        System.out.printf("Hola mundo");
-
+        System.out.println("comandos git");
+        System.out.println("Git status: para estado de las ramas\n");
+        System.out.println("Guy brach: para ver las ramas\n");
+        System.out.println("Git add: para agregar archivos");
+        System.out.println("Git push origin: para subir cambios ");
+        System.out.println("Git comit -m: para guardar cambios local\n");
+        System.out.println("Git config --list: listar configuración \n");
+        System.out.println("Git log: ver todos los comit");
+        System.out.println("Git clone : para clonar \n");
+        System.out.println("Git fetch : ver ramas remotas\n");
+        System.out.println("Git switch : para crear y posicionarnos sobre la rama");
+        System.out.println("Git comit -m \" resumen comandos git");
+        System.out.println("Git push origin RamaDesarrollo");
     }
-}
+};
